@@ -19,5 +19,4 @@ viewshortcut <- function(){
   print(dr123)
   eval(parse(text=dr123))
 
-
 }
